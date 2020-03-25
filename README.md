@@ -6,7 +6,7 @@
 * The entire application is inspired from the course of *Angela Yu* over flutter availabe on Udemy.
 * Check out, fork and share reviews.
 
-##Screenshots:
+## Screenshots:
 
 <div class="row">
   <div class="column">
